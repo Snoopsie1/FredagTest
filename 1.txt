@@ -1,4 +1,4 @@
-Dette er første linje
+GUNNER HAR SKREVET AT Dette er første linje
 
 salem
 
@@ -8,7 +8,7 @@ Dette er skrevet på linje 6
 
 Gunner kan lide kage!
 
-Lotta kan lide tærte!
+Lotta kan lide tærte! MEN GUNNER ER BEDRE
 
 Lotta lavet noget begavet arbejde.
 
