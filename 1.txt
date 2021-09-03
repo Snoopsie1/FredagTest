@@ -1,4 +1,4 @@
-
+Dette er første linje
 
 
 
@@ -6,7 +6,9 @@
 
 Dette er skrevet på linje 6
 
-Jeg kan lide kage!
+Gunner kan lide kage!
+
+Lotta kan lide tærte!
 
 
 
